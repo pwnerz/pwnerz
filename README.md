@@ -1,6 +1,6 @@
 ### Hi, I'm Alex. 👋
 
-Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwnerz)
 
 
 
