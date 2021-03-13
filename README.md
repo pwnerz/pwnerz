@@ -4,7 +4,7 @@
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwnerz)
 
 
-
+<img align="left" alt="Pwnerz's Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnerz&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/> 
 
  
 
@@ -25,17 +25,6 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 <br />
 <br />
 
-<details>
-
-  <summary>:zap: GitHub Stats</summary>
-
-  
-
-<img align="left" alt="Pwnerz's Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnerz&show_icons=true&hide_border=true&&count_private=true&theme=react&include_all_commits=true"/> 
-
-
-
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
