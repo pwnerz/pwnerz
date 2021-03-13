@@ -1,5 +1,12 @@
 ### Hi, I'm Alex. 👋
 <hr>
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+<link href="https://unpkg.com/nes.css/css/nes.css" rel="stylesheet" />
+<style>
+      html, body, pre, code, kbd, samp {
+          font-family: "Press Start 2P";
+      }
+    </style>
 
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwnerz)
 <h1>My Stats</h1>
@@ -23,7 +30,7 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-
+<p></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&theme=react&layout=compact) 
 
 <hr>
