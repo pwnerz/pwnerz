@@ -7,7 +7,7 @@ Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?
 <h1>My respositories most used languages.</h1>
 <hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&theme=react&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwnerz&layout=compact)](https://github.com/pwnerz/github-readme-stats)
 
 <!--
 **pwnerz/pwnerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
