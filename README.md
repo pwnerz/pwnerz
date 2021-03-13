@@ -1,5 +1,5 @@
 ### Hi, I'm Alex. 👋
-<hr>
+
 Welcome to my Github profile! ![visitors](https://visitor-badge.glitch.me/badge?page_id=pwnerz)
 <h1>My Stats</h1>
 <hr>
